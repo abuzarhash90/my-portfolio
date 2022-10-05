@@ -14,4 +14,5 @@ html, body{
  span { color: rgba(134, 149, 164, 1); }
  p {
     background-color: rgb(75, 110, 110);
+    color: rgb(255, 255, 255);
  }
